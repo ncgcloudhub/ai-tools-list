@@ -3,7 +3,7 @@
 #### Summary
 Adobe Firefly emerges as a powerful creative tool, redefining digital design and collaboration. This article delves into its key features, highlights pros and cons, offers valuable tips, and presents real-world examples showcasing Adobe Firefly's transformative capabilities.
 
-<img src="adobefirefly.webp" alt="Adobe Firefly Image"/>
+<img src="./adobefirefly.webp" alt="Adobe Firefly Image"/>
 
 #### Key Points
 - Seamless Collaboration
