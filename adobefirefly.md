@@ -3,6 +3,8 @@
 #### Summary
 Adobe Firefly emerges as a powerful creative tool, redefining digital design and collaboration. This article delves into its key features, highlights pros and cons, offers valuable tips, and presents real-world examples showcasing Adobe Firefly's transformative capabilities.
 
+<img src="adobefirefly.webp" alt="Adobe Firefly Image"/>
+
 #### Key Points
 - Seamless Collaboration
 - Intuitive Design Interface
@@ -58,19 +60,19 @@ firefly_adobe.export_to_cloud(design)
 Design exported to the cloud: Accessible from any device, anywhere.
 ```
 
-👉 [Try for yourself](https://firefly.adobe.com/)
+👉 <a href="https://firefly.adobe.com/" target="_blank">Try for yourself</a>
 
 #### URL Address of the AI Topic / Vendor
-[Adobe Firefly](https://firefly.adobe.com/)
+<a href="https://firefly.adobe.com/" target="_blank">Adobe Firefly</a>
 
 ---
 
 Follow our Social Media for more information:
 
-- 📘 [Facebook Group](https://www.facebook.com/groups/trionxai)
-- 📄 [Facebook Page](https://www.facebook.com/ai.trionxai)
-- 📸 [Instagram](https://www.instagram.com/trionxai/)
-- 🎥 [YouTube](https://www.youtube.com/@robotdocs/)
+- 📘 <a href="https://www.facebook.com/groups/trionxai" target="_blank">Facebook Group</a>
+- 📄 <a href="https://www.facebook.com/ai.trionxai" target="_blank">Facebook Page</a>
+- 📸 <a href="https://www.instagram.com/trionxai/" target="_blank">Instagram</a>
+- 🎥 <a href="https://www.youtube.com/@robotdocs/" target="_blank">YouTube</a>
 
 #### SEO High-Ranking Page Tags
 Adobe Firefly, Digital Design, Creative Collaboration, Cloud-Based Design, Adobe Creative Cloud, Design Workflow, Asset Library, Creative Revolution, Design Tips, Design Examples
