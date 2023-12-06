@@ -40,7 +40,8 @@ Picsart is a versatile and user-friendly photo editing app that empowers users t
 👉 <a href="https://picsart.com/" target="_blank"><b>Try for yourself</b></a>
 
 ## URL Address of Picsart:
-- <a href="https://picsart.com/" target="_blank"><b>Picsart Official Website</b></a>
+- <a href="https://picsart.com/" target="_blank" rel="noopener noreferrer">Visit Picsart</a>
+
 
 
 ---
