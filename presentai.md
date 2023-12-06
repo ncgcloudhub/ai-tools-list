@@ -34,18 +34,18 @@ Present AI is an innovative tool designed to transform the way presentations are
 - **Input:** Outline of an academic lecture.
 - **Output:** Educational presentation with relevant visuals and layouts.
 
-👉 [**Try for yourself**](<https://presentai.org/>){:target="_blank"}
+👉 [**Try for yourself**]{(<https://presentai.org/>):target="_blank"}
 
 ## URL Address of Present AI:
-- [Present AI Official Site](<https://presentai.org/>){:target="_blank"}
+- [Present AI Official Site]{(<https://presentai.org/>):target="_blank"}
 
 ---
 
 **Follow our Social Media for more information:**
-- 📘 [FB group: Trionx AI Group](https://www.facebook.com/groups/trionxai){:target="_blank"}
-- 👍 [FB page: Trionx AI Page](https://www.facebook.com/ai.trionxai){:target="_blank"}
-- 📸 [Instagram: Trionx AI Instagram](https://www.instagram.com/trionxai/){:target="_blank"}
-- ▶️ [Youtube: Trionx AI YouTube](https://www.youtube.com/@robotdocs/){:target="_blank"}
+- 📘 [FB group: Trionx AI Group]{(https://www.facebook.com/groups/trionxai):target="_blank"}
+- 👍 [FB page: Trionx AI Page]{(https://www.facebook.com/ai.trionxai):target="_blank"}
+- 📸 [Instagram: Trionx AI Instagram]{(https://www.instagram.com/trionxai/):target="_blank"}
+- ▶️ [Youtube: Trionx AI YouTube]{(https://www.youtube.com/@robotdocs/):target="_blank"}
 
 ---
 
@@ -56,5 +56,9 @@ Present AI, AI presentation, effective presentations, business pitches, academic
 
 *Image Prompt for Dall-E 3: "An illustration showcasing the interface of Present AI with features like template selection, content organization, and real-time feedback, depicted in a modern and intuitive design style."*
 
+
+![Alt text](presentai.png)
+
+![Alt text](<present ai.png>)
 
 

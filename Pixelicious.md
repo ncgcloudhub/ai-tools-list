@@ -35,18 +35,18 @@ Pixelicious is an innovative AI-powered platform that is transforming the landsc
 - **Input:** Reproduction of a classic painting.
 - **Output:** A modern reinterpretation of the classic artwork.
 
-👉 [**Try for yourself**](<https://www.pixelicious.xyz/>){:target="_blank"}
+👉 [**Try for yourself**]{(<https://www.pixelicious.xyz/>):target="_blank"}
 
 ## URL Address of Pixelicious:
-- [Pixelicious Official Site](<https://www.pixelicious.xyz/>){:target="_blank"}
+- [Pixelicious Official Site]{(<https://www.pixelicious.xyz/>):target="_blank"}
 
 ---
 
 **Follow our Social Media for more information:**
-- 📘 [FB group: Trionx AI Group](https://www.facebook.com/groups/trionxai){:target="_blank"}
-- 👍 [FB page: Trionx AI Page](https://www.facebook.com/ai.trionxai){:target="_blank"}
-- 📸 [Instagram: Trionx AI Instagram](https://www.instagram.com/trionxai/){:target="_blank"}
-- ▶️ [Youtube: Trionx AI YouTube](https://www.youtube.com/@robotdocs/){:target="_blank"}
+- 📘 [FB group: Trionx AI Group]{(https://www.facebook.com/groups/trionxai):target="_blank"}
+- 👍 [FB page: Trionx AI Page]{(https://www.facebook.com/ai.trionxai):target="_blank"}
+- 📸 [Instagram: Trionx AI Instagram]{(https://www.instagram.com/trionxai/):target="_blank"}
+- ▶️ [Youtube: Trionx AI YouTube]{(https://www.youtube.com/@robotdocs/):target="_blank"}
 
 ---
 

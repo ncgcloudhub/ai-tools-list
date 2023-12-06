@@ -35,18 +35,18 @@ StockImg AI is an innovative platform that leverages AI to revolutionize the sto
 - **Input:** Blog topic and preferred style.
 - **Output:** Unique and relevant images for blog posts.
 
-👉 [**Try for yourself**](<https://stockimg.ai/>){:target="_blank"}
+👉 [**Try for yourself**]{(<https://stockimg.ai/>):target="_blank"}
 
 ## URL Address of StockImg AI:
-- [StockImg AI Official Site](https://stockimg.ai/){:target="_blank"}
+- [StockImg AI Official Site]{(https://stockimg.ai/):target="_blank"}
 
 ---
 
 **Follow our Social Media for more information:**
-- 📘 [FB group: Trionx AI Group](https://www.facebook.com/groups/trionxai){:target="_blank"}
-- 👍 [FB page: Trionx AI Page](https://www.facebook.com/ai.trionxai){:target="_blank"}
-- 📸 [Instagram: Trionx AI Instagram](https://www.instagram.com/trionxai/){:target="_blank"}
-- ▶️ [Youtube: Trionx AI YouTube](https://www.youtube.com/@robotdocs/){:target="_blank"}
+- 📘 [FB group: Trionx AI Group]{(https://www.facebook.com/groups/trionxai):target="_blank"}
+- 👍 [FB page: Trionx AI Page]{(https://www.facebook.com/ai.trionxai):target="_blank"}
+- 📸 [Instagram: Trionx AI Instagram]{(https://www.instagram.com/trionxai/):target="_blank"}
+- ▶️ [Youtube: Trionx AI YouTube]{(https://www.youtube.com/@robotdocs/):target="_blank"}
 
 ---
 

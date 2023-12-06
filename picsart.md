@@ -37,18 +37,19 @@ Picsart is a versatile and user-friendly photo editing app that empowers users t
 - **Input:** A portrait photo.
 - **Output:** A transformed image with artistic effects and overlays.
 
-👉 [**Try for yourself**](https://picsart.com/){:target="_blank"}
+👉 **[Try for yourself]{(https://picsart.com/):target="_blank"}**
 
 ## URL Address of Picsart:
-- [Picsart Official Website](https://picsart.com/){:target="_blank"}
+- **[Picsart Official Website]{(https://picsart.com/):target="_blank"}**
 
 ---
 
 **Follow our Social Media for more information:**
-- 📘 [FB group: Trionx AI Group](https://www.facebook.com/groups/trionxai){:target="_blank"}
-- 👍 [FB page: Trionx AI Page](https://www.facebook.com/ai.trionxai){:target="_blank"}
-- 📸 [Instagram: Trionx AI Instagram](https://www.instagram.com/trionxai/){:target="_blank"}
-- ▶️ [Youtube: Trionx AI YouTube](https://www.youtube.com/@robotdocs/){:target="_blank"}
+- 📘 **[FB group: Trionx AI Group]{(https://www.facebook.com/groups/trionxai):target="_blank"}**
+- 👍 **[FB page: Trionx AI Page]{(https://www.facebook.com/ai.trionxai):target="_blank"}**
+- 📸 **[Instagram: Trionx AI Instagram]{(https://www.instagram.com/trionxai/):target="_blank"}**
+- ▶️ **[Youtube: Trionx AI YouTube]{(https://www.youtube.com/@robotdocs/):target="_blank"}**
+
 
 ---
 

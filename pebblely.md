@@ -34,18 +34,18 @@ Pebblely is an AI-driven platform designed to optimize and streamline various bu
 - **Input:** Marketing campaign data.
 - **Output:** Detailed analysis and strategy recommendations.
 
-👉 [**Try for yourself**](<insert-your-url-here>){:target="_blank"}
+👉 [**Try for yourself**]{(<https://pebblely.com/>):target="_blank"}
 
 ## URL Address of Pebblely:
-- [Pebblely Official Site](<insert-your-url-here>){:target="_blank"}
+- [Pebblely Official Site]{(<https://pebblely.com/>):target="_blank"}
 
 ---
 
 **Follow our Social Media for more information:**
-- 📘 [FB group: Trionx AI Group](https://www.facebook.com/groups/trionxai){:target="_blank"}
-- 👍 [FB page: Trionx AI Page](https://www.facebook.com/ai.trionxai){:target="_blank"}
-- 📸 [Instagram: Trionx AI Instagram](https://www.instagram.com/trionxai/){:target="_blank"}
-- ▶️ [Youtube: Trionx AI YouTube](https://www.youtube.com/@robotdocs/){:target="_blank"}
+- 📘 [FB group: Trionx AI Group]{(https://www.facebook.com/groups/trionxai):target="_blank"}
+- 👍 [FB page: Trionx AI Page]{(https://www.facebook.com/ai.trionxai):target="_blank"}
+- 📸 [Instagram: Trionx AI Instagram]{(https://www.instagram.com/trionxai/):target="_blank"}
+- ▶️ [Youtube: Trionx AI YouTube]{(https://www.youtube.com/@robotdocs/):target="_blank"}
 
 ---
 
