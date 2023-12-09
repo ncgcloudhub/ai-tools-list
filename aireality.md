@@ -60,7 +60,3 @@ URL Address of the AI Topic / vendor: [Renesas - AI Reality](https://www.renesas
 - [Youtube](https://www.youtube.com/@robotdocs/) 📹
 
 SEO High ranking page Tags: AI Reality, AI-Infused Microcontrollers, AI-Driven Processors, Intelligent Hardware, Autonomous Systems, Pattern Recognition, Renesas Technology
-
-![Dall-E 3 Image Prompt](insert_image_URL_here_if_applicable)
-
-**Note:** Replace "insert_image_URL_here_if_applicable" with the relevant Dall-E 3 image prompt URL.
