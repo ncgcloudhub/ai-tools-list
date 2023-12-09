@@ -72,8 +72,5 @@ URL Address of the AI Topic/vendor: [Image Mixer](https://huggingface.co/spaces/
 - [Instagram](https://www.instagram.com/trionxai/) 📸
 - [Youtube](https://www.youtube.com/@robotdocs/) 📹
 
-SEO High ranking page Tags: Image Mixer, AI Image Blending, AI Image Fusion, Creative Image Composition, AI-Powered Image Manipulation, Visual Composition AI, Artistic Image Blending, AI in Creative Design, AI Image Editing Tools, Innovative Image Blending Platform
-
-![Dall-E 3 Image Prompt](insert_image_URL_here_if_applicable)
-
-**Note:** Replace "insert_image_URL_here_if_applicable" with the relevant Dall-E 3 image prompt URL.
+### SEO High ranking page Tags: 
+Image Mixer, AI Image Blending, AI Image Fusion, Creative Image Composition, AI-Powered Image Manipulation, Visual Composition AI, Artistic Image Blending, AI in Creative Design, AI Image Editing Tools, Innovative Image Blending Platform

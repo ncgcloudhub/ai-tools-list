@@ -59,8 +59,6 @@ URL Address of the AI Topic/vendor: [This Person Does Not Exist](https://this-pe
 - [Instagram](https://www.instagram.com/trionxai/) 📸
 - [Youtube](https://www.youtube.com/@robotdocs/) 📹
 
-SEO High ranking page Tags: AI-Generated Faces, AI Image Generation, Realistic AI Portraits, GAN-generated Faces, Synthetic Faces, AI Image Showcase, Ethical AI Use, AI-Generated Art, This Person Does Not Exist
+### SEO High ranking page Tags: 
+AI-Generated Faces, AI Image Generation, Realistic AI Portraits, GAN-generated Faces, Synthetic Faces, AI Image Showcase, Ethical AI Use, AI-Generated Art, This Person Does Not Exist
 
-![Dall-E 3 Image Prompt](insert_image_URL_here_if_applicable)
-
-**Note:** Replace "insert_image_URL_here_if_applicable" with the relevant Dall-E 3 image prompt URL.

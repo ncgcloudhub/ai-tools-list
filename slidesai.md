@@ -1,5 +1,4 @@
 
-
 ## SlidesAI: Revolutionizing Presentations with AI-Powered Slide Creation
 
 **Summary:** SlidesAI presents an innovative platform leveraging AI technology to streamline and enhance the creation of presentations. This platform aims to simplify the process of slide creation, offering intuitive tools powered by AI algorithms that assist in generating visually appealing and impactful presentations effortlessly.
@@ -73,9 +72,6 @@ URL Address of the AI Topic/vendor: [SlidesAI](https://www.slidesai.io/)
 - [Instagram](https://www.instagram.com/trionxai/) 📸
 - [Youtube](https://www.youtube.com/@robotdocs/) 📹
 
-SEO High ranking page Tags: SlidesAI, AI-Powered Presentations, Automated Slide Creation, Visual Enhancement Tools, Effortless Design Creation, Impactful Presentation Slides, AI-Assisted Presentation Design, Streamlined Slide Generation, Automated Design Suggestions, Presentation Enhancement Platform
+### SEO High ranking page Tags: 
 
-![Dall-E 3 Image Prompt](insert_image_URL_here_if_applicable)
-
-**Note:** Replace "insert_image_URL_here_if_applicable" with the relevant Dall-E 3 image prompt URL.
-
+SlidesAI, AI-Powered Presentations, Automated Slide Creation, Visual Enhancement Tools, Effortless Design Creation, Impactful Presentation Slides, AI-Assisted Presentation Design, Streamlined Slide Generation, Automated Design Suggestions, Presentation Enhancement Platform

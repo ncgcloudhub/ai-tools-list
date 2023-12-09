@@ -72,8 +72,5 @@ URL Address of the AI Topic/vendor: [Tales Factory](https://www.talesfactory.app
 - [Instagram](https://www.instagram.com/trionxai/) 📸
 - [Youtube](https://www.youtube.com/@robotdocs/) 📹
 
-SEO High ranking page Tags: Tales Factory, AI Story Development, Storytelling Assistance, Creative Writing Tools, AI-Powered Story Crafting, Plot Generation Platform, Character Development Assistance, Streamlined Writing Assistance, AI Storytelling Innovations, Enhanced Story Creation Tools
-
-![Dall-E 3 Image Prompt](insert_image_URL_here_if_applicable)
-
-**Note:** Replace "insert_image_URL_here_if_applicable" with the relevant Dall-E 3 image prompt URL.
+### SEO High ranking page Tags: 
+Tales Factory, AI Story Development, Storytelling Assistance, Creative Writing Tools, AI-Powered Story Crafting, Plot Generation Platform, Character Development Assistance, Streamlined Writing Assistance, AI Storytelling Innovations, Enhanced Story Creation Tools
