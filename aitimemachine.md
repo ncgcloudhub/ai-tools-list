@@ -60,7 +60,3 @@ URL Address of the AI Topic/vendor: [AI Time Machine by MyHeritage](https://www.
 - [Youtube](https://www.youtube.com/@robotdocs/) 📹
 
 SEO High ranking page Tags: AI Time Machine, Historical Photo Colorization, AI-Powered Image Animation, Historical Image Enhancement, Family History Visualization, AI Historical Imagery, Animated Historical Photos, Enhanced Image Colorization, AI-Enhanced Family History, MyHeritage AI Time Machine
-
-![Dall-E 3 Image Prompt](insert_image_URL_here_if_applicable)
-
-**Note:** Replace "insert_image_URL_here_if_applicable" with the relevant Dall-E 3 image prompt URL.
