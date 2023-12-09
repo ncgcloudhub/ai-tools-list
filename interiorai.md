@@ -72,4 +72,6 @@ URL Address of the AI Topic/vendor: [Interior AI](https://interiorai.com/)
 - [Instagram](https://www.instagram.com/trionxai/) 📸
 - [Youtube](https://www.youtube.com/@robotdocs/) 📹
 
-### SEO High ranking page Tags: Interior AI, AI in Interior Design, Design Optimization, Interior Decor AI, Space Planning AI, Furnishing Suggestions, Material Selection AI, Innovative Design Tools, Artificial Intelligence in Design, Design Process Enhancement
+### SEO High ranking page Tags: 
+
+Interior AI, AI in Interior Design, Design Optimization, Interior Decor AI, Space Planning AI, Furnishing Suggestions, Material Selection AI, Innovative Design Tools, Artificial Intelligence in Design, Design Process Enhancement
