@@ -5,10 +5,10 @@
  AI Reality by Renesas is an innovative technological advancement that transforms microcontrollers and microprocessors, infusing them with AI capabilities. This integration augments devices with enhanced decision-making, pattern recognition, and autonomous functionality, fostering a new era of intelligent hardware.
 
 ## Key Points:
-- **AI-Infused Hardware:** Seamlessly embeds AI functionalities into microcontrollers and processors.
-- **Enhanced Decision-making:** Empowers devices with smart, autonomous decision-making abilities.
-- **Pattern Recognition:** Enables devices to recognize and respond to complex patterns in real-time.
-- **Intelligent Autonomous Systems:** Promotes the development of intelligent, self-driven systems.
+- AI-Infused Hardware: Seamlessly embeds AI functionalities into microcontrollers and processors.
+- Enhanced Decision-making: Empowers devices with smart, autonomous decision-making abilities.
+- Pattern Recognition: Enables devices to recognize and respond to complex patterns in real-time.
+- Intelligent Autonomous Systems: Promotes the development of intelligent, self-driven systems.
 
 ### Pros and Cons:
 | Pros                                   | Cons                                          |
