@@ -1,9 +1,9 @@
-
-
 # ControlNet Pose: Advanced AI for Human Pose Estimation
 
 ## Summary:
 ControlNet Pose is a state-of-the-art AI tool designed for human pose estimation. It utilizes advanced machine learning algorithms to accurately identify and track human body positions and movements. Ideal for developers and researchers in fields like animation, sports science, and physical therapy, ControlNet Pose offers precise and real-time pose analysis.
+
+![Alt text](controlpose.webp)
 
 ## Key Points:
 - Real-time human pose estimation using AI.
@@ -57,10 +57,6 @@ ControlNet Pose, human pose estimation, AI motion tracking, animation technology
 ---
 
 
-*Image Prompt for Dall-E 3: "A dynamic visualization of the ControlNet Pose interface, showing the AI analyzing and rendering human poses from video input, depicted in a futuristic and high-tech digital art style."*
+![Alt text](controlnetpose.webp)
 
-
-![Alt text](controlpose.png)
-
-![Alt text](controlpose-1.png)
 
