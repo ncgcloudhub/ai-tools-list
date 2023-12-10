@@ -45,7 +45,4 @@ AI Product Photos is revolutionizing the way product imagery is created, utilizi
 ---
 
 ## SEO Tags
-AI Product Photos, Product Photography, AI in E-commerce, Marketing Imagery, Digital Photography, Product Presentation, ...
-
-## Image Prompt for Dall-E 3
-"A display of diverse and high-quality product photos created by AI Product Photos, showcasing the variety and precision of AI-generated imagery."
+AI Product Photos, Product Photography, AI in E-commerce, Marketing Imagery, Digital Photography, Product Presentation, ... 
