@@ -60,6 +60,10 @@ Text: "Landscape with mountains"
 
 👉 **[Try Lexica for yourself](https://www.lexica.art/)** 👈
 
+
+[Try Lexica for yourself](https://www.lexica.art)
+
+
 ### URL Address of the AI Topic / Vendor
 - **[Lexica](https://www.lexica.art/)**
 
