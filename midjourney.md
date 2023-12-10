@@ -1,4 +1,4 @@
-### Empower Your Slack Experience: Unleashing Midjourney's Productivity Enhancements
+## Empower Your Slack Experience: Unleashing Midjourney's Productivity Enhancements
 
 ### Summary:
 Midjourney, an extension for Slack, redefines collaboration by offering advanced analytics, workflow automation, and tailored insights. It aims to optimize team communication and productivity within the Slack environment.
@@ -54,17 +54,11 @@ User: /midjourney feedback @john "Great work!"
 ```
 Midjourney: Delivering your feedback to @john.
 ```
-
 ### Try for yourself:
 **[Try for yourself](<insert-your-url-here>)**
-
 ### URL Address of the AI Topic / Vendor:
 Midjourney for Slack - [Vendor](<insert-vendor-url-here>)
-
----
-
 ### Follow our Social Media for more information:
-
 - FB Group: [trionxai](https://www.facebook.com/groups/trionxai)
 - FB Page: [ai.trionxai](https://www.facebook.com/ai.trionxai)
 - Instagram: [trionxai](https://www.instagram.com/trionxai/)
