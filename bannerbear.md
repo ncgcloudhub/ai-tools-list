@@ -46,6 +46,3 @@ Bannerbear is revolutionizing the way businesses approach graphic design by auto
 
 ## SEO Tags
 Bannerbear, Automated Design, AI Graphic Design, Marketing Automation, Social Media Content, Brand Consistency, ...
-
-## Image Prompt for Dall-E 3
-"Display of diverse digital marketing materials and social media posts created by Bannerbear, illustrating its automation and branding capabilities."
