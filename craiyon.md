@@ -4,6 +4,10 @@
 ## Summary:
 Craiyon is an innovative AI-powered platform that allows users to create unique and intricate artworks with just a few clicks. It harnesses the power of advanced AI algorithms to turn ideas into stunning visuals, making it an ideal tool for artists, designers, and anyone interested in exploring the intersection of technology and art.
 
+
+![Alt text](craiyon.webp)
+
+
 ## Key Points:
 - AI-powered tool for generating digital art.
 - Intuitive and user-friendly interface.
@@ -52,4 +56,5 @@ Craiyon is an innovative AI-powered platform that allows users to create unique 
 ## SEO High Ranking Page Tags:
 Craiyon, AI art generation, digital artwork, creative AI, art technology, automated art creation, digital artists, AI creativity, visual art generator, AI algorithms in art, digital painting, artistic exploration, AI in design, fantasy art creation, abstract art, technology in art, art innovation, AI-powered creativity, imaginative illustrations, digital art tools
 
+![Alt text](crayon.webp)
 
