@@ -55,9 +55,9 @@ User: /midjourney feedback @john "Great work!"
 Midjourney: Delivering your feedback to @john.
 ```
 ### Try for yourself:
-**[Try for yourself](<insert-your-url-here>)**
+**[Try for yourself](<https://www.mjslackbot.com/>)**
 ### URL Address of the AI Topic / Vendor:
-Midjourney for Slack - [Vendor](<insert-vendor-url-here>)
+Midjourney for Slack - [Vendor](<https://www.mjslackbot.com/>)
 ### Follow our Social Media for more information:
 - FB Group: [trionxai](https://www.facebook.com/groups/trionxai)
 - FB Page: [ai.trionxai](https://www.facebook.com/ai.trionxai)
