@@ -36,7 +36,7 @@ Input: Develop and modify animated scenes with specific details.
 Output: Dynamic and intricate scenes reflecting user preferences.
 ```
 
-### 👉 [Try for yourself](<https://apps.apple.com/us/app/deep-anime-ai-art-generator/id1660350178>)
+### 👉 [Try deep anime for yourself](<https://apps.apple.com/us/app/deep-anime-ai-art-generator/id1660350178>)
 
 ### URL Address of the AI Topic / Vendor:
 Deep Anime - [Vendor](<https://apps.apple.com/us/app/deep-anime-ai-art-generator/id1660350178>)
