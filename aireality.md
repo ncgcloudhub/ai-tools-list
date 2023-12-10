@@ -48,7 +48,7 @@ Implement AI Reality into processors for real-time pattern recognition in indust
 Processor equipped with AI to recognize and respond to intricate patterns in industrial processes.
 ```
 
-👉 [**Try AI Reality for yourself**](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/reality-ai)
+👉 [Try AI Reality for yourself](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/reality-ai)
 
 URL Address of the AI Topic / vendor: [Renesas - AI Reality](https://www.renesas.com/us/en/products/microcontrollers-microprocessors/reality-ai)
 
