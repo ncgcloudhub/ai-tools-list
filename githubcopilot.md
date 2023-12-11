@@ -50,6 +50,7 @@ GitHub Copilot is an AI-powered coding assistant that helps developers write cod
    - b) AI-powered coding assistance
    - c) Graphic design
    - d) Video editing
+
    **Answer:** b) AI-powered coding assistance
 
 2. GitHub Copilot is integrated with which of the following?
@@ -57,6 +58,7 @@ GitHub Copilot is an AI-powered coding assistant that helps developers write cod
    - b) Various IDEs
    - c) Email clients
    - d) Web browsers
+
    **Answer:** b) Various IDEs
 
 3. Which of the following is a limitation of GitHub Copilot?
@@ -64,6 +66,7 @@ GitHub Copilot is an AI-powered coding assistant that helps developers write cod
    - b) May generate incorrect code
    - c) Cannot be used offline
    - d) Only for beginner programmers
+
    **Answer:** b) May generate incorrect code
 
 4. How does GitHub Copilot improve coding productivity?
@@ -71,6 +74,7 @@ GitHub Copilot is an AI-powered coding assistant that helps developers write cod
    - b) By providing real-time coding suggestions
    - c) By creating presentation slides
    - d) By managing project deadlines
+
    **Answer:** b) By providing real-time coding suggestions
 
 5. What should developers do with GitHub Copilot's code suggestions?
@@ -78,6 +82,7 @@ GitHub Copilot is an AI-powered coding assistant that helps developers write cod
    - b) Review and test them for accuracy
    - c) Ignore them
    - d) Use them for graphic design
+   
    **Answer:** b) Review and test them for accuracy
 
 ## SEO High Ranking Page Tags
