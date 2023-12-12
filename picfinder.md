@@ -4,6 +4,9 @@
 ## Summary:
 PicFinder.AI is a groundbreaking AI-powered image search platform, designed to revolutionize the way we find and interact with digital images. By leveraging advanced machine learning algorithms, PicFinder.AI allows users to search for images based on complex queries, patterns, and even abstract concepts, delivering highly accurate and relevant results.
 
+
+![Alt text](picfinder1.webp)
+
 ## Key Points:
 - Utilizes advanced AI algorithms for image recognition.
 - Offers intuitive search functionality based on patterns and concepts.
@@ -41,26 +44,26 @@ PicFinder.AI is a groundbreaking AI-powered image search platform, designed to r
 **Discover the endless possibilities with PicFinder.AI!**
 
 ## URL Address of PicFinder.AI:
-- [PicFinder.AI Official Site](<insert-your-url-here>)
+- [PicFinder.AI Official Site](<https://picfinder.ai/>)
 
----
 
-## Connect With Us on Social Media:
+## Follow our Social Media for more information
 
-- 📘 FB group: [Join Our Facebook Group](https://www.facebook.com/groups/trionxai)
-- 📖 FB page: [Like Our Facebook Page](https://www.facebook.com/ai.trionxai)
-- 📸 Instagram: [Follow Us on Instagram](https://www.instagram.com/trionxai/)
-- 📹 Youtube: [Subscribe to Our YouTube Channel](https://www.youtube.com/@robotdocs/)
+- 📘 <a href="https://www.facebook.com/groups/trionxai" target="_blank">FB group: Trionx AI Group</a>
+- 👍 <a href="https://www.facebook.com/ai.trionxai" target="_blank">FB page: Trionx AI Page</a>
+- 📸 <a href="https://www.instagram.com/trionxai/" target="_blank">Instagram: Trionx AI Instagram</a>
+- ▶️ <a href="https://www.youtube.com/@robotdocs/" target="_blank">Youtube: Trionx AI YouTube</a>
+
 
 ## SEO High Ranking Page Tags:
 PicFinder.AI, AI image search, machine learning, image recognition, digital images, search algorithms, AI technology, image database, user-friendly interface, advanced search, pattern recognition, visual search, AI innovation, image analysis, digital photography, image querying, tech solutions, visual data, AI advancements, photo finding
 
 
----
 
-*Image Prompt for Dall-E 3: "An illustration depicting the interface of PicFinder.AI, showing its advanced search capabilities and AI-driven image recognition technology, in a sleek and modern digital art style."*
+![Alt text](picai.webp)
+
+Here is an example of the input. 
+
+![Alt text](waterfalls-in-a-forest.webp)
 
 
-![Alt text](picfinder.png)
-
-![Alt text](pic-ai.png)
