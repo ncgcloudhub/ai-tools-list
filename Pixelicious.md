@@ -58,3 +58,4 @@ Pixelicious, AI digital art, style transfer, image enhancement, creative AI, dig
 
 ![Alt text](Pixelicious.webp)
 
+![Alt text](digital-art-revivalpixel.webp)

@@ -5,7 +5,7 @@
 ## Summary:
 Picsart is a versatile and user-friendly photo editing app that empowers users to unleash their creativity. It offers a wide range of tools and features, from basic editing to advanced artistic effects, making it a popular choice for both amateurs and professionals.
 
-![Alt text](<picsart 2.png>)
+![Alt text](<picsart 2.webp>)
 
 ## Key Points:
 - Wide array of editing tools and effects.
@@ -42,11 +42,7 @@ Picsart is a versatile and user-friendly photo editing app that empowers users t
 ## URL Address of Picsart:
 - <a href="https://picsart.com/" target="_blank" rel="noopener noreferrer">Visit Picsart</a>
 
-
-
----
-
-**Follow our Social Media for more information:**
+## Follow our Social Media for more information:
 - 📘 <a href="https://www.facebook.com/groups/trionxai" target="_blank"><b>FB group: Trionx AI Group</b></a>
 - 👍 <a href="https://www.facebook.com/ai.trionxai" target="_blank"><b>FB page: Trionx AI Page</b></a>
 - 📸 <a href="https://www.instagram.com/trionxai/" target="_blank"><b>Instagram: Trionx AI Instagram</b></a>
@@ -54,16 +50,10 @@ Picsart is a versatile and user-friendly photo editing app that empowers users t
 
 
 
----
-
 ## SEO High Ranking Page Tags:
 Picsart, photo editing, creative design, image enhancement, photo effects, digital art, mobile editing app, graphic design, photography, artistic filters, editing tutorials, visual content, social media graphics, image transformation, photo overlays, creative expression, user-friendly interface, design tools, visual creativity, digital imagery
 
 
+![Alt text](picart.webp)
 
-*Image Prompt for Dall-E 3: "A vibrant illustration showcasing the capabilities of Picsart, highlighting the transformation of a standard photo into a creative masterpiece, depicted in an engaging and colorful digital art style."*
-
-
-![Alt text](picsart.png)
-
-![Alt text](<picsart 1.png>)
+![Alt text](<picsart 1.webp>)

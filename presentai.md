@@ -4,6 +4,9 @@
 ## Summary:
 Present AI is an innovative tool designed to transform the way presentations are created, using advanced artificial intelligence. It streamlines the process of presentation design, content organization, and delivery, making it easier for users to create professional and effective presentations.
 
+![Alt text](presentai.webp)
+
+
 ## Key Points:
 - AI-driven content organization and design suggestions.
 - Real-time speech analysis for effective delivery.
@@ -34,31 +37,26 @@ Present AI is an innovative tool designed to transform the way presentations are
 - **Input:** Outline of an academic lecture.
 - **Output:** Educational presentation with relevant visuals and layouts.
 
-👉 [**Try for yourself**]{(<https://presentai.org/>):target="_blank"}
+### 👉 [Try for yourself](<https://presentai.org/>)
 
-## URL Address of Present AI:
-- [Present AI Official Site]{(<https://presentai.org/>):target="_blank"}
+### URL Address of the AI Topic / Vendor
+### [Insert Vendor URL Here](<https://presentai.org/>)
 
----
+### Follow our Social Media for more information
+- 📘 [FB group: Trionx AI Group](https://www.facebook.com/groups/trionxai){:target="_blank"}
+- 👍 [FB page: Trionx AI Page](https://www.facebook.com/ai.trionxai){:target="_blank"}
+- 📸 [Instagram: Trionx AI Instagram](https://www.instagram.com/trionxai/){:target="_blank"}
+- ▶️ [Youtube: Trionx AI YouTube](https://www.youtube.com/@robotdocs/){:target="_blank"}
 
-**Follow our Social Media for more information:**
-- 📘 [FB group: Trionx AI Group]{(https://www.facebook.com/groups/trionxai):target="_blank"}
-- 👍 [FB page: Trionx AI Page]{(https://www.facebook.com/ai.trionxai):target="_blank"}
-- 📸 [Instagram: Trionx AI Instagram]{(https://www.instagram.com/trionxai/):target="_blank"}
-- ▶️ [Youtube: Trionx AI YouTube]{(https://www.youtube.com/@robotdocs/):target="_blank"}
-
----
 
 ## SEO High Ranking Page Tags:
 Present AI, AI presentation, effective presentations, business pitches, academic lectures, presentation design, AI tools, professional slides, presentation software, AI technology, public speaking, content organization, visual design, presentation templates, speech analysis, business communication, educational technology, creative presentations, digital tools, AI enhancements
 
 
+![Alt text](aipresent.webp)
 
-*Image Prompt for Dall-E 3: "An illustration showcasing the interface of Present AI with features like template selection, content organization, and real-time feedback, depicted in a modern and intuitive design style."*
+![Alt text](presentai1.webp)
 
 
-![Alt text](presentai.png)
-
-![Alt text](<present ai.png>)
 
 
