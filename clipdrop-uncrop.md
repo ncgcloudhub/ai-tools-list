@@ -1,9 +1,12 @@
 
-
 # ClipDrop Uncrop: Revolutionizing Image Restoration
 
 ## Summary:
 ClipDrop Uncrop is an innovative tool in the realm of image editing and restoration. It utilizes advanced AI to reconstruct missing parts of photos, effectively "uncropping" them. This feature is particularly useful in instances where important details lie outside the cropped area. The technology behind ClipDrop Uncrop analyzes existing image data to seamlessly generate the extended parts, ensuring a natural and cohesive look.
+
+
+![Alt text](<cropdropuni-2prompts mixed.webp>)
+
 
 ## Key Points:
 - Advanced AI-driven image restoration.
@@ -42,12 +45,12 @@ ClipDrop Uncrop is an innovative tool in the realm of image editing and restorat
 - **Input:** Cropped photo of a city skyline.
 - **Output:** Wider view of the cityscape, including previously missing buildings.
 
-👉 **[Try for yourself](<insert-your-url-here>)**
+👉 **[Try for yourself](<https://clipdrop.co/>)**
 
 **Boldly explore ClipDrop Uncrop's possibilities!**
 
 ## URL Address of ClipDrop Uncrop:
-- [ClipDrop Uncrop Official Site](<insert-your-url-here>)
+- [ClipDrop Uncrop Official Site](<https://clipdrop.co/>)
 
 ---
 
@@ -62,4 +65,8 @@ ClipDrop Uncrop is an innovative tool in the realm of image editing and restorat
 clipdrop, image restoration, AI photography, uncrop tool, photo editing, AI technology, digital imaging, creative photography, image enhancement, tech innovation, user-friendly software, image reconstruction, artificial intelligence, graphic design, photography tips, editing software, digital art, visual technology, photo manipulation, creative design
 
 
+![Alt text](cropdrop.webp)
+
+
+![Alt text](clipdropfamily.webp)
 

@@ -1,9 +1,10 @@
 
-
 # Leap.ml: Pioneering Machine Learning Accessibility
 
 ## Summary:
 Leap.ml is an innovative platform designed to make machine learning more accessible and user-friendly. Aimed at both beginners and experienced practitioners, Leap.ml simplifies the process of creating, training, and deploying machine learning models with its intuitive interface and powerful tools.
+
+![Alt text](leapml1.webp)
 
 ## Key Points:
 - User-friendly machine learning platform.
@@ -37,32 +38,21 @@ Leap.ml is an innovative platform designed to make machine learning more accessi
 - **Input:** A dataset of images.
 - **Output:** Trained model capable of image classification.
 
-👉 **[Try for yourself](https://tryleap.ai/)**
+### 👉 [Try for yourself](<https://tryleap.ai/>)
 
-**Unleash the power of machine learning with Leap.ml!**
+### URL Address of the AI Topic / Vendor
+### [Insert Vendor URL Here](<https://tryleap.ai/>)
 
-## URL Address of Leap.ml:
-- [Leap.ml Official Website](https://tryleap.ai/)
-
----
-
-## Stay Connected and Informed:
-
-- 📘 FB group: [Join Our Facebook Group](https://www.facebook.com/groups/trionxai)
-- 📖 FB page: [Like Our Facebook Page](https://www.facebook.com/ai.trionxai)
-- 📸 Instagram: [Follow Us on Instagram](https://www.instagram.com/trionxai/)
-- 📹 Youtube: [Subscribe to Our YouTube Channel](https://www.youtube.com/@robotdocs/)
+### Follow our Social Media for more information
+- 📘 [FB group: Trionx AI Group](https://www.facebook.com/groups/trionxai){:target="_blank"}
+- 👍 [FB page: Trionx AI Page](https://www.facebook.com/ai.trionxai){:target="_blank"}
+- 📸 [Instagram: Trionx AI Instagram](https://www.instagram.com/trionxai/){:target="_blank"}
+- ▶️ [Youtube: Trionx AI YouTube](https://www.youtube.com/@robotdocs/){:target="_blank"}
 
 ## SEO High Ranking Page Tags:
 Leap.ml, machine learning, AI platform, ML model development, predictive analytics, image recognition, AI for beginners, machine learning tools, data science, AI technology, user-friendly ML, ML applications, artificial intelligence, data analysis, ML training, tech innovation, ML deployment, digital learning, AI education, machine learning accessibility
 
-
----
-
-*Image Prompt for Dall-E 3: "A dynamic illustration showcasing the interface of Leap.ml, highlighting its features such as model training and data analysis, portrayed in a modern and technological digital art style."*
+![Alt text](leap.webp)
 
 
-![Alt text](leap.png)
-
-![Alt text](leapml.png)
-
+![Alt text](leapmodel.webp)

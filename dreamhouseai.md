@@ -1,28 +1,31 @@
 
-## Dreamhouse AI: Revolutionizing Home Design and Visualization
+# Dreamhouse AI: Revolutionizing Home Design and Visualization
 
-**Summary:** Dreamhouse AI is a groundbreaking platform utilizing AI for home design and visualization, empowering users to create and visualize dream homes effortlessly. It employs cutting-edge technology to generate detailed layouts and design elements, offering a seamless experience for architects, interior designers, and homeowners alike.
+## Summary: 
+Dreamhouse AI is a groundbreaking platform utilizing AI for home design and visualization, empowering users to create and visualize dream homes effortlessly. It employs cutting-edge technology to generate detailed layouts and design elements, offering a seamless experience for architects, interior designers, and homeowners alike.
 
-**Key Points:**
-- **AI-Powered Design:** Utilizes AI algorithms for home design and visualization.
-- **Customization:** Enables personalized home designs catering to specific preferences.
-- **Realistic Rendering:** Provides realistic 3D visualizations of proposed designs.
-- **User-Friendly Interface:** Offers an intuitive interface for easy navigation and design exploration.
+![Alt text](dreamhouseneonkitchen.webp)
 
-**Pros and Cons:**
+### Key Points:
+- AI-Powered Design: Utilizes AI algorithms for home design and visualization.
+- Customization: Enables personalized home designs catering to specific preferences.
+- Realistic Rendering: Provides realistic 3D visualizations of proposed designs.
+- User-Friendly Interface: Offers an intuitive interface for easy navigation and design exploration.
+
+### Pros and Cons:
 | Pros                                     | Cons                                            |
 | ---------------------------------------- | ------------------------------------------------ |
 | Advanced AI for precise design creation   | Learning curve for first-time users               |
 | Tailored designs for individual needs     | Possible limitations in extreme customization     |
 | High-quality realistic visualizations     | Dependence on the AI-generated design accuracy   |
 
-**Tips for the Reader** 💡
+ ## Tips for the Reader 💡
 Experiment with various design elements and features to achieve the desired dream home. Consider learning resources to navigate the platform effectively.
 
 ### Examples
 
 #### Example 1: Creating a Modern Kitchen Space
-*Prompt: Modern Kitchen Design*
+Prompt: Modern Kitchen Design
 
 **Input**
 ```dart
@@ -35,7 +38,7 @@ Generated 3D rendering displaying a modern, functional kitchen design.
 ```
 
 #### Example 2: Designing a Spacious Living Room
-*Prompt: Spacious Living Room Design*
+Prompt: Spacious Living Room Design
 
 **Input**
 ```dart
@@ -51,16 +54,19 @@ Visual representation of a spacious and cozy living room layout with selected el
 
 URL Address of the AI Topic / vendor: [Dreamhouse AI](https://dreamhouseai.com/)
 
----
 
-**Follow our Social Media for more information**
-- [FB group](https://www.facebook.com/groups/trionxai) 🔍
-- [FB page](https://www.facebook.com/ai.trionxai) 📘
-- [Instagram](https://www.instagram.com/trionxai/) 📸
-- [Youtube](https://www.youtube.com/@robotdocs/) 📹
+## Follow our Social Media for more information
 
-SEO High ranking page Tags: Dreamhouse AI, Home Design AI, AI Visualization, Home Interior AI, 3D Home Design, Realistic Home Rendering, AI Home Layout, Personalized Home Design, Architectural Visualization
+- 📘 <a href="https://www.facebook.com/groups/trionxai" target="_blank">FB group: Trionx AI Group</a>
+- 👍 <a href="https://www.facebook.com/ai.trionxai" target="_blank">FB page: Trionx AI Page</a>
+- 📸 <a href="https://www.instagram.com/trionxai/" target="_blank">Instagram: Trionx AI Instagram</a>
+- ▶️ <a href="https://www.youtube.com/@robotdocs/" target="_blank">Youtube: Trionx AI YouTube</a>
 
-![Dall-E 3 Image Prompt](insert_image_URL_here_if_applicable)
+### SEO
+ High ranking page Tags: Dreamhouse AI, Home Design AI, AI Visualization, Home Interior AI, 3D Home Design, Realistic Home Rendering, AI Home Layout, Personalized Home Design, Architectural Visualization
 
-**Note:** Replace "insert_image_URL_here_if_applicable" with the relevant Dall-E 3 image prompt URL.
+
+![Alt text](dreamhouselivingroom.webp)
+
+
+![Alt text](dreamhousemodernkitchen.webp)

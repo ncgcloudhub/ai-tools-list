@@ -1,9 +1,11 @@
 
-
 # AI Portrait Generator: Unveiling Digital Artistry
 
 ## Summary:
 AI Portrait Generator is a state-of-the-art tool designed to transform photographs into unique digital portraits using advanced AI algorithms. This tool caters to artists, photographers, and hobbyists, offering an intuitive way to create stunning, artistic renditions of portraits with just a few clicks.
+
+
+![Alt text](<ai portrait.webp>)
 
 ## Key Points:
 - Utilizes advanced AI for artistic transformations.
@@ -37,31 +39,23 @@ AI Portrait Generator is a state-of-the-art tool designed to transform photograp
 - **Input:** Old family photo.
 - **Output:** Stylized, modern portrait rendition.
 
-👉 **[Try for yourself](https://www.media.io/ai-portrait-generator.html)**
+### 👉 [Try for yourself](<https://www.media.io/ai-portrait-generator.html or https://www.ai-portraits.org/ >)
 
-**Experience the magic of AI in art with AI Portrait Generator!**
+### URL Address of the AI Topic / Vendor
+### [Insert Vendor URL Here](<https://www.media.io/ai-portrait-generator.html or https://www.ai-portraits.org/>)
 
-## URL Address of AI Portrait Generator:
-- [AI Portrait Generator Official Site](https://www.media.io/ai-portrait-generator.html)
+### Follow our Social Media for more information
+- 📘 [FB group: Trionx AI Group](https://www.facebook.com/groups/trionxai){:target="_blank"}
+- 👍 [FB page: Trionx AI Page](https://www.facebook.com/ai.trionxai){:target="_blank"}
+- 📸 [Instagram: Trionx AI Instagram](https://www.instagram.com/trionxai/){:target="_blank"}
+- ▶️ [Youtube: Trionx AI YouTube](https://www.youtube.com/@robotdocs/){:target="_blank"}
 
----
-
-## Connect With Us:
-
-- 📘 FB group: [Join Our Facebook Group](https://www.facebook.com/groups/trionxai)
-- 📖 FB page: [Like Our Facebook Page](https://www.facebook.com/ai.trionxai)
-- 📸 Instagram: [Follow Us on Instagram](https://www.instagram.com/trionxai/)
-- 📹 Youtube: [Subscribe to Our YouTube Channel](https://www.youtube.com/@robotdocs/)
 
 ## SEO High Ranking Page Tags:
 AI Portrait Generator, digital art, AI algorithms, portrait transformation, creative photography, artistic AI, digital portrait, photo to art, AI art, user-friendly AI tool, digital creativity, photography enhancement, portrait artistry, artistic transformation, AI technology in art, digital portrait creation, AI for artists, creative AI applications, portrait innovation, AI-generated art
 
-
----
-
-*Image Prompt for Dall-E 3: "A visual depiction of the AI Portrait Generator in action, showing the transformation of a regular photo into a stunning AI-generated portrait, illustrated in a dynamic and modern digital art style."*
+![Alt text](aiportrait.webp)
 
 
-![Alt text](<ai portrait.png>)
+![Alt text](aiportraitgen.webp)
 
-![Alt text](<generate pic.png>)
