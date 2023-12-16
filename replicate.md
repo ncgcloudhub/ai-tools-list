@@ -1,5 +1,4 @@
-
-### Replicate: A Cloud-Based Platform for Running Machine Learning Models
+## Replicate: A Cloud-Based Platform for Running Machine Learning Models
 
 ### Summary
 Replicate is a cloud-based platform that allows users to run machine learning models with ease. The platform provides a Python library that enables users to run models with just a few lines of code. Replicate also offers a cloud API that allows users to query the platform directly with their tool of choice. The platform features thousands of open-source models that can be used off the shelf, or users can deploy their own custom models at scale.
