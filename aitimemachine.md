@@ -54,10 +54,10 @@ A rejuvenated version of the old photograph with improved quality.
 
 ### Follow our Social Media for more information:
 
-- 📘 <a href="https://www.facebook.com/MyHeritage" target="_blank">Facebook Page</a>
-- 📄 <a href="https://twitter.com/MyHeritage" target="_blank">Twitter</a>
-- 📸 <a href="https://www.instagram.com/myheritage_official/" target="_blank">Instagram</a>
-- 🎥 <a href="https://www.youtube.com/user/myheritage" target="_blank">YouTube</a>
+- 📘 <a href="https://www.facebook.com/groups/trionxai" target="_blank">Facebook Group</a>
+- 📄 <a href="https://www.facebook.com/ai.trionxai" target="_blank">Facebook Page</a>
+- 📸 <a href="https://www.instagram.com/trionxai/" target="_blank">Instagram</a>
+- 🎥 <a href="https://www.youtube.com/@robotdocs/" target="_blank">YouTube</a>
 
 <hr>
 

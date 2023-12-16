@@ -54,10 +54,10 @@ Realistic and diverse poses providing references for character animations.
 
 ### Follow our Social Media for more information:
 
-- 📘 <a href="https://www.facebook.com/MakePoseAI/" target="_blank">Facebook Page</a>
-- 📄 <a href="https://twitter.com/MakePose_AI" target="_blank">Twitter</a>
-- 📸 <a href="https://www.instagram.com/makepose_ai/" target="_blank">Instagram</a>
-- 🎥 <a href="https://www.youtube.com/channel/MakePoseAI" target="_blank">YouTube</a>
+- 📘 <a href="https://www.facebook.com/groups/trionxai" target="_blank">Facebook Group</a>
+- 📄 <a href="https://www.facebook.com/ai.trionxai" target="_blank">Facebook Page</a>
+- 📸 <a href="https://www.instagram.com/trionxai/" target="_blank">Instagram</a>
+- 🎥 <a href="https://www.youtube.com/@robotdocs/" target="_blank">YouTube</a>
 
 <hr>
 
