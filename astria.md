@@ -45,7 +45,4 @@ Astria is at the forefront of integrating AI with spatial computing, offering in
 ---
 
 ## SEO Tags
-Astria, Spatial Computing, AI Technology, Augmented Reality, Virtual Reality, Digital Interaction, Advanced Computing, ...
-
-## Image Prompt for Dall-E 3
-"An immersive virtual reality scene created by Astria, illustrating the seamless integration of AI and spatial computing in an interactive environment."
+Astria, Spatial Computing, AI Technology, Augmented Reality, Virtual Reality, Digital Interaction, Advanced Computing, AR/VR Innovation, AI in Spatial Analysis, Immersive Technology, AI-Driven VR/AR, Future of Computing, Mixed Reality, AI Spatial Solutions, Virtual Environments, Augmented Reality Applications, 3D Computing, Virtual World Creation, AI and Mixed Reality, Technology in Spatial Design
