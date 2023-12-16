@@ -70,9 +70,9 @@ To harness the full potential of Magician for Figma, explore its features gradua
 
 Curious to explore the capabilities of Magician for Figma? Visit [Magician for Figma](https://magician.design/) and experience a new dimension in design.
 
-### Follow Our Social Media for More Information:
+### Follow our Social Media for more information:
 
-- 📘 [FB: Magician for Figma](https://www.facebook.com/magician.design/)
-- 👍 [Twitter: Magician for Figma](https://twitter.com/magiciandesign)
-- 📸 [Instagram: Magician for Figma](https://www.instagram.com/magiciandesign/)
-- ▶️ [YouTube: Magician for Figma](https://www.youtube.com/magiciandesign)
+- 📘 <a href="https://www.facebook.com/groups/trionxai" target="_blank">Facebook Group</a>
+- 📄 <a href="https://www.facebook.com/ai.trionxai" target="_blank">Facebook Page</a>
+- 📸 <a href="https://www.instagram.com/trionxai/" target="_blank">Instagram</a>
+- 🎥 <a href="https://www.youtube.com/@robotdocs/" target="_blank">YouTube</a>
