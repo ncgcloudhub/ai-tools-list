@@ -5,6 +5,10 @@
 ## Summary:
 Playground AI is an innovative platform that offers a playground for creativity through AI. It provides tools and environments where users, from amateurs to experts, can experiment with various AI technologies. From machine learning models to neural networks, Playground AI is a hub for exploring, learning, and creating with AI.
 
+![Alt text](play.webp)
+
+![Alt text](playgroundai.webp)
+
 ## Key Points:
 - Offers a variety of AI tools and technologies.
 - User-friendly interface for all skill levels.
@@ -46,22 +50,15 @@ Playground AI is an innovative platform that offers a playground for creativity 
 
 ---
 
-## Follow Us for More AI Insights:
+## Follow our Social Media for more information
 
-- 📘 FB group: [Join Our Facebook Group](https://www.facebook.com/groups/trionxai)
-- 📖 FB page: [Like Our Facebook Page](https://www.facebook.com/ai.trionxai)
-- 📸 Instagram: [Follow Us on Instagram](https://www.instagram.com/trionxai/)
-- 📹 Youtube: [Subscribe to Our YouTube Channel](https://www.youtube.com/@robotdocs/)
+- 📘 <a href="https://www.facebook.com/groups/trionxai" target="_blank">FB group: Trionx AI Group</a>
+- 👍 <a href="https://www.facebook.com/ai.trionxai" target="_blank">FB page: Trionx AI Page</a>
+- 📸 <a href="https://www.instagram.com/trionxai/" target="_blank">Instagram: Trionx AI Instagram</a>
+- ▶️ <a href="https://www.youtube.com/@robotdocs/" target="_blank">Youtube: Trionx AI YouTube</a>
 
 ## SEO High Ranking Page Tags:
 Playground AI, artificial intelligence, AI tools, machine learning, neural networks, AI creativity, AI learning platform, technology exploration, AI experimentation, user-friendly AI, AI for beginners, AI projects, AI art, data science, machine learning models, AI development, tech creativity, AI education, digital innovation, AI exploration
 
 
----
-
-*Image Prompt for Dall-E 3: "An artistic representation of Playground AI platform, showing a diverse range of AI tools and creative projects in action, depicted in a vibrant and futuristic digital art style."*
-
-
-![Alt text](play.png)
-
-![Alt text](playground.png)
+![Alt text](playground.webp)
