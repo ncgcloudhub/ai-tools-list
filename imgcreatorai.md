@@ -3,7 +3,7 @@
 ### Summary
 IMGCreator.ai, a revolutionary AI-powered image generation tool, is making waves in the creative space. This article delves into the key features of IMGCreator.ai, explores its pros and cons, provides actionable tips for users, and showcases real-world examples of the magic it brings to image creation.
 
-<img src="./imgcreator.webp" alt="IMGCreator.ai Image"/>
+<img src="./imgcreatorai.webp" alt="IMGCreator.ai Image"/>
 
 ### Key Points
 - AI-Powered Image Generation

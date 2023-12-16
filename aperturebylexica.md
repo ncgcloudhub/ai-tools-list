@@ -3,7 +3,7 @@
 ### Summary
 Aperture, a groundbreaking AI-driven creative tool by Lexica, is reshaping the landscape of digital artistry. This article explores the key features of Aperture, unveils its pros and cons, shares valuable tips for users, and showcases real-world examples of the artistic brilliance it unlocks.
 
-<img src="./aperture.webp" alt="Aperture (by Lexica) Image"/>
+<img src="./aperturebylexica.webp" alt="Aperture (by Lexica) Image"/>
 
 ### Key Points
 - AI-Driven Artistic Exploration
