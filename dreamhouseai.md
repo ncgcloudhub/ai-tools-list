@@ -50,16 +50,17 @@ Innovative interior design concepts with optimized space utilization.
 
 - 👍 <a href="https://dreamhouseai.com/" target="_blank">Dreamhouse AI Vendor</a>
 
-<hr>
+<<hr>
 
 ### Follow our Social Media for more information:
 
-- 📘 <a href="https://www.facebook.com/DreamhouseAI/" target="_blank">Facebook Page</a>
-- 📄 <a href="https://twitter.com/DreamhouseAI" target="_blank">Twitter</a>
-- 📸 <a href="https://www.instagram.com/dreamhouse_ai/" target="_blank">Instagram</a>
-- 🎥 <a href="https://www.youtube.com/channel/DreamhouseAI" target="_blank">YouTube</a>
+- 📘 <a href="https://www.facebook.com/groups/trionxai" target="_blank">Facebook Group</a>
+- 📄 <a href="https://www.facebook.com/ai.trionxai" target="_blank">Facebook Page</a>
+- 📸 <a href="https://www.instagram.com/trionxai/" target="_blank">Instagram</a>
+- 🎥 <a href="https://www.youtube.com/@robotdocs/" target="_blank">YouTube</a>
 
 <hr>
+
 
 ### SEO Tags:
 Dreamhouse AI, Home Design, AI-Powered Design, Home Visualization, Interior Design Innovation, Architectural Planning, Immersive Experience, Precision Designing

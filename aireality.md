@@ -50,16 +50,18 @@ An efficient predictive maintenance solution tailored for edge devices.
 
 - 👍 <a href="https://www.renesas.com/us/en/products/microcontrollers-microprocessors/reality-ai" target="_blank">AI Reality Vendor</a>
 
+
 <hr>
 
 ### Follow our Social Media for more information:
 
-- 📘 <a href="https://www.facebook.com/RenesasAmericas" target="_blank">Facebook Page</a>
-- 📄 <a href="https://twitter.com/RenesasAmerica" target="_blank">Twitter</a>
-- 📸 <a href="https://www.instagram.com/renesasamericas/" target="_blank">Instagram</a>
-- 🎥 <a href="https://www.youtube.com/user/renesasamerica" target="_blank">YouTube</a>
+- 📘 <a href="https://www.facebook.com/groups/trionxai" target="_blank">Facebook Group</a>
+- 📄 <a href="https://www.facebook.com/ai.trionxai" target="_blank">Facebook Page</a>
+- 📸 <a href="https://www.instagram.com/trionxai/" target="_blank">Instagram</a>
+- 🎥 <a href="https://www.youtube.com/@robotdocs/" target="_blank">YouTube</a>
 
 <hr>
+
 
 ### SEO Tags:
 AI Reality, Renesas, Edge Machine Learning, Intelligent Edge, Developer Tools, Edge Device Optimization, AI Applications, Edge Computing
