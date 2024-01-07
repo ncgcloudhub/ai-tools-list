@@ -47,10 +47,10 @@ Automatic Chat is a groundbreaking AI-driven platform designed to revolutionize 
 **Output**: 
 "Use AI analysis to understand inquiry patterns and tailor your responses."
 
-👉 **[Try for yourself](https://automatic.chat/?ref=futuretools.io){:target="_blank" rel="noopener"}**
+👉 **[Try for yourself](https://automatic.chat/?){:target="_blank" rel="noopener"}**
 
 ## URL Address of the AI Topic / Vendor
-[Automatic Chat Official Website](https://automatic.chat/?ref=futuretools.io)
+[Automatic Chat Official Website](https://automatic.chat/?)
 
 ## Follow Our Social Media for More Information
 - 📘 **[Facebook Group](https://www.facebook.com/groups/trionxai){:target="_blank"}**
