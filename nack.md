@@ -45,9 +45,20 @@ Nack is a cutting-edge artificial intelligence platform designed to revolutioniz
 
 👉 **[Try for yourself](<https://www.nack.ai/>)**
 
+
 **Discover the transformative power of Nack!**
 
 ## URL Address of the AI Topic / Vendor:
+- [Nack Official Website](<https://www.nack.ai/>)
+
+
+## Stay Connected with Us on Social Media:
+
+- 📘 FB group: [Join Our Facebook Group](https://www.facebook.com/groups/trionxai)
+- 📖 FB page: [Like Our Facebook Page](https://www.facebook.com/ai.trionxai)
+- 📸 Instagram: [Follow Us on Instagram](https://www.instagram.com/trionxai/)
+- 📹 Youtube: [Subscribe to Our YouTube Channel](https://www.youtube.com/@robotdocs/)
+
 - [Nack Official Website](<https://www.nack.ai/>)
 
 
@@ -62,8 +73,7 @@ Nack is a cutting-edge artificial intelligence platform designed to revolutioniz
 ## SEO High Ranking Page Tags:
 Nack, AI platform, machine learning, data analysis, artificial intelligence, technology solutions, business intelligence, operational efficiency, market trends, customer service AI, AI tutorials, digital transformation, AI tools, data-driven decision making, scalable AI solutions, industry innovation, AI for business, tech advancement, AI integration, smart solutions
 
-
-
 ![neci](https://github.com/ncgcloudhub/ai-tools-list/assets/149958388/5f057f09-c533-424e-bf8a-28b477fd9380)
 
 ![Alt text](nackplay.webp)
+
